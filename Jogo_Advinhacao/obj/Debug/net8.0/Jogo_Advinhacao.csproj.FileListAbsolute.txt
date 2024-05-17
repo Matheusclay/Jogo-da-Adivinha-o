@@ -1,0 +1,14 @@
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\bin\Debug\net8.0\Jogo_Advinhacao.exe
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\bin\Debug\net8.0\Jogo_Advinhacao.deps.json
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\bin\Debug\net8.0\Jogo_Advinhacao.runtimeconfig.json
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\bin\Debug\net8.0\Jogo_Advinhacao.dll
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\bin\Debug\net8.0\Jogo_Advinhacao.pdb
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.AssemblyInfoInputs.cache
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.AssemblyInfo.cs
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.csproj.CoreCompileInputs.cache
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.dll
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\refint\Jogo_Advinhacao.dll
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.pdb
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\Jogo_Advinhacao.genruntimeconfig.cache
+C:\Users\cmcas\Documents\ALURA\Jogo Adivinhação\Jogo_Advinhacao\obj\Debug\net8.0\ref\Jogo_Advinhacao.dll
